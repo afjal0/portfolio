@@ -1,0 +1,31 @@
+body{
+    font-family: 'Quintessential', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.abc{
+    color: rgb(169, 240, 3);
+}
+section{
+    display: flex;
+    padding: 10%;
+}
+.half-width{
+    width: 100%;
+    
+}
+.half-width img{
+    width:100%;
+}
+span{
+    background-image: -moz-linear-gradient(green red);
+}
+.hire-me{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(169, 240, 3),orange) ;
+    padding: 5px 20px;
+    border-radius: 10px;
+    
+    
+}
